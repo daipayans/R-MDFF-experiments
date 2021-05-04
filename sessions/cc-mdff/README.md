@@ -4,6 +4,9 @@
   - 100replicas, 16iterations, 10ps: re.session.login3.hrlee.018721.0010.tar.gz
   - 64replicas, 16iterations, 20ps: re.session.login2.hrlee.018724.0000.tar.gz
   - 32replicas, 16iterations, 40ps: re.session.login2.hrlee.018724.0001.tar.gz
+  - 16replicas, 16iterations, 62.5ps: re.session.login3.hrlee.018721.0004.tar.gz
+  - 8replicas, 16iterations, 125ps: re.session.login3.hrlee.018721.0003.tar.gz
+  - 4replicas, 16iterations, 250ps: re.session.login3.hrlee.018721.0001.tar.gz
 
 - 3.0A (intermediate)
   - 32replicas, 16iterations, 40ps: re.session.login2.hrlee.018725.0001.tar.gz
