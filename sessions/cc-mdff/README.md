@@ -20,3 +20,26 @@
   - 8replicas, 16iterations, 160ps: re.session.login3.hrlee.018745.0001.tar.gz (json truncated)
   - 1replica, 1iteration, 160k ps: re.session.login5.hrlee.018743.0006.tar.gz
 
+## For error bars
+
+- 3.0
+  - 8replicas, 1iteration, 160k ps:
+    - 2nd: re.session.login1.hrlee.018765.0000
+    - 3rd: re.session.login2.hrlee.018765.0001
+  - 16replicas, 1iteration: 80 ps:
+    - 2nd: re.session.login1.hrlee.018765.0006
+    - 3rd: re.session.login1.hrlee.018765.0007
+  - 32replicas, 1iteration, 40 ps:
+    - 2nd: re.session.login1.hrlee.018765.0008
+    - 3rd: re.session.login1.hrlee.018765.0009
+
+- 5.0
+  - 8replicas, 1iteration, 160k ps:
+    - 2nd: re.session.login2.hrlee.018765.0002
+    - 3rd: re.session.login2.hrlee.018765.0003
+  - 16replicas, 1iteration, 80 ps:
+    - 2nd: re.session.login2.hrlee.018765.0004
+    - 3rd: re.session.login2.hrlee.018765.0005
+  - 32replicas, 1iteration, 40 ps:
+    - 2nd: re.session.login1.hrlee.018765.0010
+    - 3rd: re.session.login1.hrlee.018765.0011
