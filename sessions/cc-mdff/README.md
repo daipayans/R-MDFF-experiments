@@ -30,6 +30,7 @@
   - 16replicas, 1iteration: 80 ps:
     - re.session.login3.hrlee.018766.0015
     - re.session.login4.hrlee.018766.0014
+    - re.session.login4.hrlee.018766.0019
   - 32replicas, 1iteration, 40 ps:
     - re.session.login3.hrlee.018766.0013
     - re.session.login5.hrlee.018766.0011
