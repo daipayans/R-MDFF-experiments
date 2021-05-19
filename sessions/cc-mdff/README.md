@@ -45,6 +45,8 @@
     - 3rd: re.session.login1.hrlee.018765.0007
     - 4th: re.session.login4.hrlee.018766.0002
     - 5th: re.session.login3.hrlee.018766.0005
+    - 6th: re.session.login4.hrlee.018766.0020
+    - 7th: re.session.login4.hrlee.018766.0021
   - 32replicas, 1iteration, 40 ps:
     - 2nd: re.session.login1.hrlee.018765.0008
     - 3rd: re.session.login1.hrlee.018765.0009
@@ -62,5 +64,4 @@
   - 32replicas, 1iteration, 40 ps:
     - 2nd: re.session.login1.hrlee.018765.0010
     - 3rd: re.session.login1.hrlee.018765.0011
-    - 4th: re.session.login5.hrlee.018766.0010
-
+    - 4th: re.session.login4.hrlee.018766.0022
