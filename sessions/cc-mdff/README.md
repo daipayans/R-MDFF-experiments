@@ -20,6 +20,10 @@
   - 8replicas, 16iterations, 160ps: re.session.login3.hrlee.018745.0001.tar.gz (json truncated)
   - 1replica, 1iteration, 160k ps: re.session.login5.hrlee.018743.0006.tar.gz
 
+## PSC Bridges
+
+- 32replicas, 1iteration, 500k numsteps: re.session.br011.ib.bridges2.psc.edu.hrlee.018685.0000
+ 
 ## For error bars
 
 - 1.8
