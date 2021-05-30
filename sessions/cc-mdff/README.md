@@ -22,7 +22,7 @@
 
 ## PSC Bridges
 
-- 32replicas, 1iteration, 500k numsteps: re.session.br011.ib.bridges2.psc.edu.hrlee.018685.0000
+- 4replicas, 16iterations, 32ps: re.session.r419.ib.bridges2.psc.edu.hrlee.018777.0006.tar.gz
  
 ## For error bars
 
