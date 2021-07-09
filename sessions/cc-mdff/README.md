@@ -14,6 +14,10 @@
   - 8replicas, 16iterations,160ps: re.session.login2.hrlee.018724.0004.tar.gz
   - 4replicas, 16iterations, 250ps: re.session.login2.hrlee.018807.0000.tar.gz
   - 1replica, 1iteration, 160k ps: re.session.login2.hrlee.018724.0005.tar.gz
+  - using rp 1.6.6 / ru1.6.7
+    - 8replicas, 16iterations, 160ps: re.session.login2.hrlee.018817.0026.tar.gz
+    - 16replicas, 16iterations, 80ps: re.session.login2.hrlee.018817.0027.tar.gz
+    - 32replicas, 16iterations, 40ps: re.session.login2.hrlee.018817.0028.tar.gz
 
 - 5.0A (low)
   - 32replicas, 16iterations, 40ps: re.session.login5.hrlee.018743.0002.tar.gz
