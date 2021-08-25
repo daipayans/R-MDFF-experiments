@@ -1,4 +1,6 @@
+# Table of Experiments
 
+## Location of Trajectory files on SUMMIT
 
 BASE: `/gpfs/alpine/world-shared/bip212/hrlee/experiments/adk`
 | System  | Replica | timesteps | Iteration | Resolution | HPC | Actual PATH |
@@ -25,3 +27,22 @@ BASE: `/gpfs/alpine/world-shared/bip212/hrlee/experiments/adk`
 
 
 Symlink: f`{BASE}/{System}_{Replica}_{timesteps}_{Resolution}_{HPC}`
+
+## Backup on RADICAL (xxx.xxx.17.185)
+
+```
+/vol_c/hrlee
+
+drwxr-xr-x  2 hrlee   hrlee       4096 Jul  1 23:39 .
+drwxrwxr-x 33 iparask users       4096 Jul  1 20:03 ..
+-rw-rw----  1 hrlee   hrlee 8868807742 Jul  1 23:46 adk_100_10000_1.8_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 2900066835 Jul  1 15:24 adk_16_62500_1.8_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 3525322396 Jul  1 20:02 adk_16_80000_3.0_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 4779481164 Jul  1 20:05 adk_32_40000_3.0_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 5235048017 Jul  1 20:07 adk_32_40000_5.0_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 2090367731 Jul  1 16:50 adk_4_250000_3.0_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 2147863443 Jul  1 16:54 adk_4_250000_5.0_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 6808189401 Jul  1 20:11 adk_64_20000_1.8_summit.tar.gz
+-rw-rw----  1 hrlee   hrlee 2901037835 Jul  1 20:01 adk_8_160000_3.0_summit.tar.gz
+
+```
