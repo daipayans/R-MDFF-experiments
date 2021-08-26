@@ -5,11 +5,13 @@
 BASE: `/gpfs/alpine/world-shared/bip212/hrlee/experiments/`
 | System  | Replica | timesteps | Iteration | Resolution | HPC | Actual PATH | Session ID |
 |---------|---------|-----------|-----------|------------|-----|-------------|------------|
-|ADK      |  4     | 250000     | 16        | 1.8A       | Summit | `${BASE}/N/A` | N/A |
-|ADK      |  8     | 160000     | 16        | 1.8A       | Summit | `${BASE}/N/A` | N/A |
+|ADK      |  4     | 250000     | 16        | 1.8A       | Summit | N/A | N/A |
+|ADK      |  8     | 160000     | 16        | 1.8A       | Summit | N/A | N/A |
 |ADK      |  16     | 62500     | 16        | 1.8A       | Summit | `${BASE}/adk_16_62500_1.8_summit.tar.gz` | re.session.login3.hrlee.018721.0004 |
-|ADK      |  32     | 40000     | 16        | 1.8A       | Summit | `${BASE}/N/A` | N/A |
+|ADK      |  32     | 40000     | 16        | 1.8A       | Summit | N/A | N/A |
 |ADK      |  64     | 20000     | 16        | 1.8A       | Summit | `${BASE}/adk_64_20000_1.8_summit.tar.gz` | re.session.login2.hrlee.018724.0000 |
+|ADK      |  64     | 80000     | 16        | 1.8A       | Summit | N/A | N/A |
+|ADK      |  100    | 80000     | 16        | 1.8A       | Summit | N/A | N/A |
 |ADK      |  100    | 10000     | 16        | 1.8A       | Summit |  `${BASE}/adk_100_10000_1.8_summit.tar.gz` | re.session.login3.hrlee.018721.0010 |
 |ADK      |  200    | 80000     | 16        | 1.8A       | Summit |  `${BASE}/adk_200_80000_1.8_summit.tar.gz` | re.session.login3.hrlee.018785.0005 |
 |ADK      |  400    | 80000     | 16        | 1.8A       | Summit |  `${BASE}/adk_400_80000_1.8_summit.tar.gz` | re.session.login3.hrlee.018785.0006 |
@@ -20,8 +22,8 @@ BASE: `/gpfs/alpine/world-shared/bip212/hrlee/experiments/`
 |ADK      |  32     | 40000     | 16        | 3.0A       | Summit |  `${BASE}/adk_32_40000_3.0_summit.tar.gz` | re.session.login2.hrlee.018725.0001 |
 |---------|---------|-----------|-----------|------------|-----|-------------|------------|
 |ADK      |  4      | 250000    | 16        | 5.0A       | Summit |  `${BASE}/adk_4_250000_5.0_summit.tar.gz` | re.session.login2.hrlee.018807.0001 |
-|ADK      |  8      | 160000     | 16        | 5.0A       | Summit | `${BASE}/N/A` | N/A | |
-|ADK      |  16     | 625000     | 16        | 5.0A       | Summit | `${BASE}/N/A` | N/A | |
+|ADK      |  8      | 160000     | 16        | 5.0A       | Summit | N/A | N/A | |
+|ADK      |  16     | 625000     | 16        | 5.0A       | Summit | N/A | N/A | |
 |ADK      |  32     | 40000     | 16        | 5.0A       | Summit |  `${BASE}/adk_32_40000_5.0_summit.tar.gz` | re.session.login5.hrlee.018743.0002 |
 |---------|---------|-----------|-----------|------------|-----|-------------|------------|
 |CODH     |  16     | 80000     | 16        | 1.8A       | Summit |  `${BASE}/codh_16_80000_1.8_summit.tar.gz` | re.session.login1.hrlee.018808.0003 |
